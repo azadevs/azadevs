@@ -37,7 +37,7 @@
   
 ---  
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="310" />
 
 <h2> 🛠️ &nbsp;**Languages and Tools:**</h2>
 <p align="left">
@@ -57,7 +57,7 @@
 
 <h3>📊&nbsp;**GitHub Stats:**</h3>
 <div align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=azadevs&show_icons=true&private_count=false&theme=dark" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=azadevs&show_icons=true&private_count=false&theme=dark" width="340"/>
 </div>
 
 <p align="center">
