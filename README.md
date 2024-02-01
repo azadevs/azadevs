@@ -57,6 +57,10 @@
 
 </p>
 
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kalmurzaeff_A)](https://github.com/azadevs/github-readme-stats)
+
 <!-- <h3>📊&nbsp;**GitHub Stats:**</h3>
 <div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=azadevs&show_icons=true&private_count=false&theme=dark" width="340"/>
