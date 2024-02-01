@@ -37,7 +37,7 @@
   
 ---  
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="300" />
 
 
 
@@ -59,7 +59,7 @@
 
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kalmurzaeff_A)](https://github.com/azadevs/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kalmurzaeff_A)](https://github.com/azadevs/github-readme-stats) 
 
 <!-- <h3>📊&nbsp;**GitHub Stats:**</h3>
 <div align="left"> 
