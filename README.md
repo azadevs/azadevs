@@ -59,7 +59,7 @@
 
  <h3>📊&nbsp;**GitHub Stats:**</h3>
 <div align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=azadevs&show_icons=true&private_count=false&theme=dark" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=azadevs&show_icons=true&private_count=false&theme=dark" width="350"/>
 </div>
 
 <p align="center">
