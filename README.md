@@ -5,27 +5,23 @@
 
 🌍 **Located in:** Nukus, Karakalpakstan
 
-🎓 **Current Status:**
-- Finalizing my bachelor's degree in Software Engineering
-
 👨‍💻 **Education:**
 - Self-Taught Developer
-- Bachelor's in Software Engineering (in progress)
+- Bachelor's in Software Engineering
 
 💼 **Current Job:**
 - Exploring opportunities, not currently employed
 
 🚀 **Fields of Interests:**
-- Android Development
-- UI/UX Design
+- Mobile Development
 
 📚 **Currently Learning:**
 - Jetpack Compose
 
 🎮 **Hobbies:**
 - Gaming
-- Cinema
 - Basketball
+- Football
 
 ```
   
