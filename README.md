@@ -46,11 +46,6 @@
 
 </p>
 
- <h3>📊&nbsp;**GitHub Stats:**</h3>
-<div align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=azadevs&show_icons=true&private_count=false&theme=dark" width="370"/>
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p> 
