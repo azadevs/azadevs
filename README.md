@@ -10,7 +10,7 @@
 - Bachelor's in Software Engineering
 
 💼 **Current Job:**
-- Exploring opportunities, not currently employed
+- Android developer
 
 🚀 **Fields of Interests:**
 - Mobile Development
