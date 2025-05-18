@@ -10,7 +10,7 @@
 - Bachelor's in Software Engineering
 
 💼 **Current Job:**
-- Android developer
+- Android developer at CodingTech
 
 🚀 **Fields of Interests:**
 - Mobile Development
