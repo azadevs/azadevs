@@ -20,8 +20,8 @@
 
 🎮 **Hobbies:**
 - Gaming
-- Basketball
 - Football
+- Reading
 
 ```
 ---  
